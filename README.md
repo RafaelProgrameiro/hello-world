@@ -1,2 +1,3 @@
 # hello-world
-Repositório atividade CUBOS
+Repositório criado para atividade CUBOS
+
